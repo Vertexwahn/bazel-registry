@@ -1,0 +1,9 @@
+{
+    "integrity": "sha256-sbIAYGZAVH/O/w0+vgGsBcSnrioTG+fps+W59JHvNbM=",
+    "patch_strip": 0,
+    "patches": {
+        "module_dot_bazel.patch": "sha256-YXgMGYO43o+zgNxd1oFKb1pu/ipaPIYSPsBZ7Sh7THs="
+    },
+    "strip_prefix": "libwebp.git-ca332209cb5567c9b249c86788cb2dbf8847e760",
+    "url": "https://chromium.googlesource.com/webm/libwebp.git/+archive/ca332209cb5567c9b249c86788cb2dbf8847e760.tar.gz"
+}
