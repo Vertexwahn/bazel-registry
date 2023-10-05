@@ -1,0 +1,17 @@
+{
+    "homepage": "https://github.com/zeux/pugixml",
+    "maintainers": [
+        {
+            "email": "julian.amann@tum.de",
+            "github": "Vertexwahn",
+            "name": "Julian Amann"
+        }
+    ],
+    "repository": [
+        "github:zeux/pugixml"
+    ],
+    "versions": [
+        "1.14"
+    ],
+    "yanked_versions": {}
+}
