@@ -14,8 +14,7 @@ common --registry=https://raw.githubusercontent.com/Vertexwahn/bazel-registry/ma
 
 ### embree
 
-Embree is middleware for ray tracing that computes intersections points between rays and different shape types.
-Currently, there is [an attempt](https://github.com/bazelbuild/bazel-central-registry/pull/964) to move this module to the [Bazel Central Registry](https://registry.bazel.build/).
+Moved to the [Bazel Central Registry](https://registry.bazel.build/) (see [this PR](https://github.com/bazelbuild/bazel-central-registry/pull/964)).
 
 ### libwebp
 
