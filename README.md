@@ -14,8 +14,8 @@ common --registry=https://raw.githubusercontent.com/Vertexwahn/bazel-registry/ma
 
 ### libpng
 
-Offers support for [libpng](http://www.libpng.org/pub/png/libpng.html) version 1.6.40.
-Currently trying to move this to [Bazel Central Registry](https://registry.bazel.build/) via this [PR](https://github.com/bazelbuild/bazel-central-registry/pull/1005).
+Offers support for [libpng](http://www.libpng.org/pub/png/libpng.html).
+Moved to the [Bazel Central Registry](https://registry.bazel.build/) via this [PR](https://github.com/bazelbuild/bazel-central-registry/pull/1005).
 
 ### embree
 
