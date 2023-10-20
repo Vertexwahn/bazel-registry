@@ -7,11 +7,8 @@
             "name": "Julian Amann"
         }
     ],
-    "repository": [
-      "github:webmproject/libwebp"
-    ],
     "versions": [
-        "1.3.2"
+        "2.14.02"
     ],
     "yanked_versions": {}
 }

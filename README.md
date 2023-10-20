@@ -23,7 +23,12 @@ Moved to the [Bazel Central Registry](https://registry.bazel.build/) (see [this 
 
 ### libwebp
 
-Still experimental.
+Offers support for [libwebp](https://chromium.googlesource.com/webm/libwebp).
+There is [PR](https://github.com/bazelbuild/bazel-central-registry/pull/1038) to move it to Moved to the [Bazel Central Registry](https://registry.bazel.build/).
+
+## nasm
+
+## libjpeg_turbo
 
 ### pugixml
 

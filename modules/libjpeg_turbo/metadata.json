@@ -8,7 +8,7 @@
         }
     ],
     "repository": [
-      "github:ibjpeg-turbo/libjpeg-turbo"
+      "github:libjpeg-turbo/libjpeg-turbo"
     ],
     "versions": [
         "2.1.4"

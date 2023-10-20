@@ -1,6 +1,10 @@
 --- BUILD.bazel
 +++ BUILD.bazel
-@@ -0,0 +1,138 @@
+@@ -0,0 +1,142 @@
++# Copied from https://github.com/tensorflow/tensorflow/blob/master/third_party/nasm/nasm.BUILD
++# The copied code is available under the Apache-2.0 license
++# Copyright of the copied code belongs to the TensorFlow Authors
++
 +licenses(["notice"])
 +
 +exports_files(["LICENSE"])
