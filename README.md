@@ -12,6 +12,10 @@ common --registry=https://raw.githubusercontent.com/Vertexwahn/bazel-registry/ma
 
 ## Supported modules
 
+### libwebp
+
+Moved to the [Bazel Central Registry](https://registry.bazel.build/) via this [PR](https://github.com/bazelbuild/bazel-central-registry/pull/1038).
+
 ### libpng
 
 Offers support for [libpng](http://www.libpng.org/pub/png/libpng.html).
