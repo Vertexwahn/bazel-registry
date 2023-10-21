@@ -7,7 +7,7 @@ This is a [Bazel registry](https://bazel.build/external/registry).
 You can add this registry to your `.bazelrc` file via:
 
 ```
-common --registry=https://raw.githubusercontent.com/Vertexwahn/bazel-registry/main/
+common --registry=https://raw.githubusercontent.com/Vertexwahn/bazel-registry/main
 ```
 
 ## Supported modules
