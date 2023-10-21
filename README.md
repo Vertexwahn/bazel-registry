@@ -14,27 +14,25 @@ common --registry=https://raw.githubusercontent.com/Vertexwahn/bazel-registry/ma
 
 ### libwebp
 
-Moved to the [Bazel Central Registry](https://registry.bazel.build/) via this [PR](https://github.com/bazelbuild/bazel-central-registry/pull/1038).
+Moved to the [Bazel Central Registry](https://registry.bazel.build/) (see this [PR](https://github.com/bazelbuild/bazel-central-registry/pull/1038)).
 
 ### libpng
 
-Offers support for [libpng](http://www.libpng.org/pub/png/libpng.html).
-Moved to the [Bazel Central Registry](https://registry.bazel.build/) via this [PR](https://github.com/bazelbuild/bazel-central-registry/pull/1005).
+Moved to the [Bazel Central Registry](https://registry.bazel.build/) (see this [PR](https://github.com/bazelbuild/bazel-central-registry/pull/1005)).
 
 ### embree
 
-Moved to the [Bazel Central Registry](https://registry.bazel.build/) (see [this PR](https://github.com/bazelbuild/bazel-central-registry/pull/964)).
+Moved to the [Bazel Central Registry](https://registry.bazel.build/) (see this [PR](https://github.com/bazelbuild/bazel-central-registry/pull/964)).
 
 ### libwebp
 
-Offers support for [libwebp](https://chromium.googlesource.com/webm/libwebp).
-There is [PR](https://github.com/bazelbuild/bazel-central-registry/pull/1038) to move it to Moved to the [Bazel Central Registry](https://registry.bazel.build/).
+Moved to the [Bazel Central Registry](https://registry.bazel.build/) (see this [PR](https://github.com/bazelbuild/bazel-central-registry/pull/1038)).
 
-## nasm
+### nasm
 
-Moved to the [Bazel Central Registry](https://registry.bazel.build/) via this [PR](https://github.com/bazelbuild/bazel-central-registry/pull/1042).
+Moved to the [Bazel Central Registry](https://registry.bazel.build/) (see this [PR](https://github.com/bazelbuild/bazel-central-registry/pull/1042)).
 
-## libjpeg_turbo
+### libjpeg_turbo
 
 ### pugixml
 
