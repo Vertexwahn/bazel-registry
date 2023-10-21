@@ -28,6 +28,8 @@ There is [PR](https://github.com/bazelbuild/bazel-central-registry/pull/1038) to
 
 ## nasm
 
+Moved to the [Bazel Central Registry](https://registry.bazel.build/) via this [PR](https://github.com/bazelbuild/bazel-central-registry/pull/1042).
+
 ## libjpeg_turbo
 
 ### pugixml
