@@ -24,3 +24,8 @@ common --registry=https://bcr.bazel.build
 ## Supported modules
 
 See the [modules](/modules/) folder for currently supported modules.
+
+## Other registries
+
+- https://github.com/bazelboost/registry
+- https://github.com/obazl/registry
