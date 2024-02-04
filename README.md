@@ -29,3 +29,5 @@ See the [modules](/modules/) folder for currently supported modules.
 
 - https://github.com/bazelboost/registry
 - https://github.com/obazl/registry
+
+If you know of any other public registries please drop me a mail.
