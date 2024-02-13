@@ -1,0 +1,12 @@
+{
+    "homepage": "https://github.com/facebook/zstd",
+    "maintainers": [],
+    "repository": [
+        "github:facebook/zstd"
+    ],
+    "versions": [
+        "1.5.5",
+        "1.5.5.bcr.2"
+    ],
+    "yanked_versions": {}
+}
