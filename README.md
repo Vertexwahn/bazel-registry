@@ -27,7 +27,8 @@ See the [modules](/modules/) folder for currently supported modules.
 
 ## Other registries
 
-- https://github.com/bazelboost/registry
-- https://github.com/obazl/registry
+- [bazelboost/registry](https://github.com/bazelboost/registry)
+- [bazel-eomii-registry](https://github.com/eomii/bazel-eomii-registry)
+- [obazl/registry](https://github.com/obazl/registry)
 
 If you know of any other public registries please drop me a mail.
