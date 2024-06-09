@@ -3,7 +3,7 @@
 This is a [Bazel registry](https://bazel.build/external/registry).
 
 - Changes to existing modules are allowed and performed (e.g. updating dependencies)
-- The main target are C++ third-party libraries
+- The main focus here is on C++ third-party libraries
 - Half-backend and experimental modules are allowed
 - Some modules may be moved to the [Bazel Central Registry](https://registry.bazel.build/) in the future
 
